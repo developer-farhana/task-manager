@@ -1,0 +1,14 @@
+/* navbar */
+.active{
+    background: rgb(26, 2, 2);
+    color: white;
+    text-align: center;
+    font-size:large;
+    padding: 10px;
+    position: absolute;
+    top: 70px;
+    height:auto;
+    width: 100%;
+
+}
+
